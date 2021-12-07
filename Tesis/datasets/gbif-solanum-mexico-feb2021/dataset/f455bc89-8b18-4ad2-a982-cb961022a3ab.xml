@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f455bc89-8b18-4ad2-a982-cb961022a3ab"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/9czcig</alternateIdentifier>
+        <alternateIdentifier>f455bc89-8b18-4ad2-a982-cb961022a3ab</alternateIdentifier>
+        <alternateIdentifier>http://ipt-nigeria.gbif.fr/resource?r=fhi_frin-collection</alternateIdentifier>
+    <title>Capture of Primary Biodiversity Data for West African Plants</title>
+    <creator>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Emmanuel</givenName>          <surName>Chukwuma</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Senior Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8060114367</phone><electronicMailAddress>chukwumaemma@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Kehinde</givenName>          <surName>Adeniji</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Principal Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 7035081157</phone><electronicMailAddress>obalomo2016@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Akinniyi</givenName>          <surName>Odewo</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Principal Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8060147257</phone><electronicMailAddress>akinodewo@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Tolulope</givenName>          <surName>Okanlawon</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Principal Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 80181639776</phone><electronicMailAddress>tolulopeokan@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Temitope</givenName>          <surName>Soyewo</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Principal Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>temitopesoyewo@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Temitope</givenName>          <surName>Oyebola</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Principal Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8033504751</phone><electronicMailAddress>temitoperosanwo@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Seyifunmi</givenName>          <surName>Aina</surName>
+    </individualName>
+<positionName>Research Officer I</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8109873896</phone><electronicMailAddress>seyifunmiaina@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>08023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2019-01-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Forest Herbarium Ibadan (FHI) is a repository of about 101000 specimens of vascular plants and cryptograms mainly from all parts of Nigeria and some other parts of the world. Forest Herbarium Ibadan  is located in Taxonomy Section of the Department of Forest Conservation and Protection, Forestry Research Institute of Nigeria, Ibadan. The sources of FHI materials are from Taxonomic activities such as collections during routine field exploration, floristic projects and inventories. Other sources include specimens exchange from other herbaria (Nationally and Internationally), voucher specimens from scientists and research students and donations from private collectors. The objectives of FHI are to render Taxonomic services (Identification, Classification and Nomenclature), conserve and monitor the distribution and status of the flora of Nigeria through plant collection and botanical exploration of her regions and to encourage proper documentation of the flora. Today, FHI plays the role of a National herbarium in Nigeria. 
+The present dataset hold about 17105 records of angiosperms cutting across  34 families in 415 genera and 1432 species with 18750 images linked to the data. These specimens were collected between 1842-2017.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Forest Herbarium Ibadan</keyword>
+              <keyword>Plants</keyword>
+              <keyword>Nigeria</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The resource covers 17105 specimens. Most of the specimens (13143) were collected from Nigeria. Others are donated/exchange specimens from many other African countries- 3669 specimens, 63 from Asia, 12 from North America, 9 from South America and 1 from Europe.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-129.375</westBoundingCoordinate>
+                      <eastBoundingCoordinate>103.359</eastBoundingCoordinate>
+                      <northBoundingCoordinate>61.606</northBoundingCoordinate>
+                      <southBoundingCoordinate>-52.052</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All vascular plants were identified to species or varietas. Examples of taxa are listed below</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Khaya senegalensis A.Juss.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Carapa grandiflora Sprague</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Combretum platypterum Hutch. &amp; Dalziel</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea>    </address>
+<phone>08023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Not applicable</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Not applicable</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Not applicable</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Not applicable</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="n/a">
+          <title>Capture of Primary Biodiversity Data for West African Plants</title>
+          <personnel>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Asase</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Pierre</givenName>          <surName>Raoufou</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Moses</givenName>          <surName>Sainge</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Jean</givenName>          <surName>Ganglo</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Emmanuel</givenName>          <surName>Chukwuma</surName>
+    </individualName>
+    <role>PROGRAMMER</role>
+          </personnel>
+          <abstract>
+              <para>Limited access to West African biodiversity data is a crucial barrier to progress on a wide variety of challenges in biological research, decision making, policy setting, and many other facets of natural resources-related activities. An estimated 10,000,000 primary biodiversity records for plants from West African countries exist in herbaria worldwide, yet only a small portion of those records is accessible via existing data portals. Biodiversity research, management, and conservation are therefore operating based on a only small subset of existing information.
+The goal of this project is to daylight a rich, high-quality data set describing the distribution of species of plants across West Africa to the scientific and decision-making communities. Data from five West African herbaria and six major herbaria in Europe and North America will be digitized and published by owner institutions. Through this work, caretakers of specimens at institutions on three continents will be linked with scientists from the West African region with intense interest in the data to achieve cost-effective solutions to data needs. This project will generate a valuable regional scientific resource, and provide an exportable model of data digitization for other regions and taxa for which the bulk of existing biodiversity data remain inaccessible and unavailable to science. Most importantly, this project is a novel prototype of a solution to the challenge of data access in which African scientists lead the capture of information relevant to their regions.</para>
+          </abstract>
+          <funding>
+              <para>JRS  Biodiversity Foundation</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>n/a</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The project was co-ordinated by  University of Ghana-Ghana Herbarium in partnership with four West Africa Countries viz: Forest Herbarium Ibadan (FHI) of the Forestry Research Institute of Nigeria, Ibadan, Nigeria; University of Abomey-Calavi, Benin; University of Lome, Togo; and Tropical Plant Exploration Group (TROPEG), Cameroon. Others were three  European/North America – New York Botanical Garden, USA; Missouri Botanical Gardens, St Louis, USA and Naturalis Biodiversity Centre, Leiden, Netherlands.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-03-01T23:34:14Z</dateStamp>
+      <citation>Ugbogu O, Osiyemi O, Chukwuma E, Adeniji K, Odewo A, Okanlawon T, Soyewo T, Oyebola T, Aina S (2019). Capture of Primary Biodiversity Data for West African Plants. Version 1.6. Forestry Research Institute of Nigeria. Occurrence dataset https://doi.org/10.15468/9czcig accessed via GBIF.org on 2021-03-01.</citation>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>Not applicable</collectionIdentifier>
+                <collectionName>Capture of Primary Biodiversity Data for West African Plants</collectionName>
+              </collection>
+              <formationPeriod>1842-2017</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Herbarium specimen sheets</jgtiUnitType>
+                      <jgtiUnits>17,105</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
